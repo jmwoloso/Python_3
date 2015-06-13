@@ -1,0 +1,7 @@
+2015-06-11 21:30:18,592 - root - INFO - BEGIN LOGGING PROPERTY_ADDRESS.PY
+2015-06-11 21:30:18,598 - root - INFO - Creating a new address
+2015-06-11 21:30:18,600 - root - ERROR - NAME exception
+2015-06-11 21:30:18,600 - root - INFO - Creating a new address
+2015-06-11 21:30:18,601 - root - ERROR - STATE exception
+2015-06-11 21:30:18,602 - root - INFO - Creating a new address
+2015-06-11 21:30:18,603 - root - ERROR - ZIPCODE exception

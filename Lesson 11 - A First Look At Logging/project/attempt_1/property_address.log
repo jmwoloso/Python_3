@@ -1,0 +1,14 @@
+2015-06-11 00:56:44,022 - INFO - start_logging - BEGIN LOGGING PROPERTY_ADDRESS.PY
+2015-06-11 00:56:44,022 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,022 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - ERROR - __init__ - STATE exception
+2015-06-11 00:56:44,038 - ERROR - __init__ - STATE exception
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - INFO - __init__ - Creating a new address
+2015-06-11 00:56:44,038 - ERROR - __init__ - ZIPCODE exception
