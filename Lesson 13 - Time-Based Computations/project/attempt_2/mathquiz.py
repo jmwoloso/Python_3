@@ -4,16 +4,14 @@
 #    mathquiz.py
 #
 # Created by: Jason M Wolosonovich
-#    6/11/2015
+#    6/16/2015
 #
-# Lesson 13 - Project Attempt 1
+# Lesson 13 - Project Attempt 2
 """
 mathquiz.py: A math quiz!
 
 @author: Jason M. Wolosonovich
 """
-# for python 2.x
-from __future__ import division 
 from random import randint
 from time import time
 
@@ -228,6 +226,7 @@ def main():
     Main loop for mathquiz.py when run directly.
     """
     MathQuiz().start()
+    
 
 
 if __name__=="__main__":
